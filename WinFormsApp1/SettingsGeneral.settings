@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WinFormsApp1" GeneratedClassName="SettingsGeneral">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProgrammName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Информационная Система Автосервиса "Райос"</Value>
+    </Setting>
+    <Setting Name="LastLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
